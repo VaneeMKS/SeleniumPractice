@@ -22,6 +22,7 @@ public class Practice1 {
 		
 		List<WebElement> allRows=table.findElements(By.tagName("tr"));
 		
+		//Testing GIT
 		
 		for(int k=0;k<allRows.size();k++)
 		{
